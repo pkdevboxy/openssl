@@ -20,5 +20,6 @@
       "name": "Tim Branyen"
     }
   ],
+  "gypfile": true,
   "license": "Dual OpenSSL/SSLeay"
 }
