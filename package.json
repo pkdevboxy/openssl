@@ -4,7 +4,7 @@
   "description": "nodegit specific code for openssl",
   "main": "none",
   "scripts": {
-    "install": "node-gyp rebuild"
+    "install": "exit 0"
   },
   "repository": {
     "type": "git",
