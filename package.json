@@ -4,6 +4,7 @@
   "description": "nodegit specific code for openssl",
   "main": "none",
   "scripts": {
+    "preinstall": "exit 0",
     "install": "exit 0"
   },
   "repository": {
@@ -20,6 +21,5 @@
       "name": "Tim Branyen"
     }
   ],
-  "gypfile": true,
   "license": "Dual OpenSSL/SSLeay"
 }
