@@ -1,0 +1,24 @@
+{
+  "name": "openssl",
+  "version": "1.0.2-e",
+  "description": "nodegit specific code for openssl",
+  "main": "none",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodegit/openssl.git"
+  },
+  "author": "Max Korp (@maximilianokorp)",
+  "contributors": [
+    {
+      "name": "John Haley",
+      "email": "john@haley.io"
+    },
+    {
+      "name": "Tim Branyen"
+    }
+  ],
+  "license": "Dual OpenSSL/SSLeay"
+}
